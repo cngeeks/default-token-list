@@ -1,0 +1,7 @@
+{
+    "name": "PancakeSwap",
+    "website": "https://pancakeswap.finance/",
+    "short_description": "PancakeSwap is a Binance Smart Chain-based decentralized exchange (DEX) with an automated market maker (AMM) model for swapping BEP-20 tokens.",
+    "explorer": "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "research": "https://research.binance.com/en/projects/pancakeswap"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "ARGENT",
+    "website": "https://complus.network/argent",
+    "short_description": "Argent is a BEP20 token and it's value equal to one troy ounce (t oz) Silver. It is Ownable, Pausable, Burn and Mint controlled by a central SupplyController",
+    "explorer": "https://bscscan.com/token/0x0cc7cbc1609d2b6fd6d33048b9b4ade8cf9dde47",
+    "research": "https://research.binance.com/en/projects/argent"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Uniswap",
+    "website": "https://uniswap.org/",
+    "short_description": "Uniswap is a decentralized exchange protocol built on the Ethereum blockchain that offers non-custodial trading of ERC-20 tokens. Its first version (Uniswap v1) has been operating since November 2018 (launching at DevCon 4), while the second version (Uniswap v2) launched in May 2020.",
+    "explorer": "https://bscscan.com/token/0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+    "research": "https://research.binance.com/en/projects/uniswap"
+}
