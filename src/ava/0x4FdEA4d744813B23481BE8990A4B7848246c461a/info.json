@@ -1,0 +1,5 @@
+{
+    "name": "AUSD Token",
+    "short_description": "ARC20 USD (AUSD) is a token on Avalanche C-Chain issued by Complus, where the price is pegged to USD at a rate of 1 AUSD = 1 USD.",
+    "explorer": "https://cchain.explorer.avax.network/address/0x4FdEA4d744813B23481BE8990A4B7848246c461a/contracts",
+}

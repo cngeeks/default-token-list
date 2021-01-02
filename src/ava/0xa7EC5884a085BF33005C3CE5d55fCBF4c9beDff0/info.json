@@ -1,0 +1,5 @@
+{
+    "name": "AETH Token",
+    "short_description": "ARC20 ETH (AETH) is a token on Avalanche C-Chain issued by Complus, where the price is pegged to ETH at a rate of 1 AETH = 1 ETH.",
+    "explorer": "https://cchain.explorer.avax.network/address/0xa7EC5884a085BF33005C3CE5d55fCBF4c9beDff0/contracts",
+}
