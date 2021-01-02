@@ -1,0 +1,5 @@
+{
+    "name": "ABTC Token",
+    "short_description": "ARC20 BTC (ABTC) is a token on Avalanche C-Chain issued by Complus, where the price is pegged to BTC at a rate of 1 ABTC = 1 BTC.",
+    "explorer": "https://cchain.explorer.avax.network/address/0xD6DcD2d875E31cb0AE34b110A992b1b7524A71D9/contracts",
+}
