@@ -32,30 +32,6 @@
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
     },
     {
-      "address": "0x4FdEA4d744813B23481BE8990A4B7848246c461a",
-      "chainId": 43114,
-      "name": "AUSD Token",
-      "symbol": "AUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x4FdEA4d744813B23481BE8990A4B7848246c461a/logo.png"
-    },
-    {
-      "address": "0xa7EC5884a085BF33005C3CE5d55fCBF4c9beDff0",
-      "chainId": 43114,
-      "name": "AETH Token",
-      "symbol": "AETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0xa7EC5884a085BF33005C3CE5d55fCBF4c9beDff0/logo.png"
-    },
-    {
-      "address": "0xD6DcD2d875E31cb0AE34b110A992b1b7524A71D9",
-      "chainId": 43114,
-      "name": "ABTC Token",
-      "symbol": "ABTC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0xD6DcD2d875E31cb0AE34b110A992b1b7524A71D9/logo.png"
-    },
-    {
       "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad",
       "chainId": 43114,
       "name": "COMPLUS",
