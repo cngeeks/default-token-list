@@ -104,6 +104,22 @@
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xae3a768f9ab104c69a7cd6041fe16ffa235d1810/logo.png"
     },
     {
+      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "chainId": 128,
+      "name": "USDTHECO Token",
+      "symbol": "USDTHECO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xa71edc38d189767582c38a3145b5873052c3e47a/logo.png"
+    },
+    {
+      "address": "0xe499ef4616993730ced0f31fa2703b92b50bb536",
+      "chainId": 128,
+      "name": "HPT Token",
+      "symbol": "HPT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536/logo.png"
+    },
+    {
       "address": "0x5d121fca6e783f7f59a7ea44e7bf3c1b8213826c",
       "chainId": 128,
       "name": "COMPLUS",
